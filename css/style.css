@@ -1,0 +1,96 @@
+body{
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: rgb(170, 218, 219);
+    background-attachment: fixed;
+    height: 100px;
+    width: 100px;
+   
+}
+
+h4{
+    color: darkgoldenrod;
+}
+h2{
+    color: darkgoldenrod;
+}
+h3{
+    font-style: italic;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cloud{
+    border-radius: 50%;
+}
+.cloud2{
+    border-radius: 50%;
+    position: absolute;
+    right: 0;
+    top: 400px;
+}
+.myimg{
+    border-radius: 100%;
+   
+    align-items: center;
+    top: 620px;
+    left: 40%;
+}
+.mountain{
+  position: relative;
+  left: 600px;
+  
+
+}
+hr{
+    width: 1500px;
+}
+.imagetable{
+    position: relative;
+    align-items: center;
+    left: 0px;
+    top: 300px;
+}  
+.inside{
+    position: absolute;
+    left: 630px;
+}   
+.cv{
+    position: absolute;
+    top: 400px;
+}
+.gif_para{
+    float: left;
+}
+.gif{
+    margin-top: 0;
+    height: 350%;
+    width: 50%;
+}
+.btn {
+    background: #34d9aa;
+    background-image: -webkit-linear-gradient(top, #34d9aa, #2bb855);
+    background-image: -moz-linear-gradient(top, #34d9aa, #2bb855);
+    background-image: -ms-linear-gradient(top, #34d9aa, #2bb855);
+    background-image: -o-linear-gradient(top, #34d9aa, #2bb855);
+    background-image: linear-gradient(to bottom, #34d9aa, #2bb855);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #dcfc3c;
+    background-image: -webkit-linear-gradient(top, #dcfc3c, #add934);
+    background-image: -moz-linear-gradient(top, #dcfc3c, #add934);
+    background-image: -ms-linear-gradient(top, #dcfc3c, #add934);
+    background-image: -o-linear-gradient(top, #dcfc3c, #add934);
+    background-image: linear-gradient(to bottom, #dcfc3c, #add934);
+    text-decoration: none;
+  }
+  
